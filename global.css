@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    line-height: normal;
+  }
+  
+  :root {
+    /* fonts */
+    --font-jejugothic: JejuGothic;
+    --font-lexend: Lexend;
+    --font-jockey-one: "Jockey One";
+  
+    /* font sizes */
+    --font-size-21xl: 40px;
+    --font-size-31xl: 50px;
+    --font-size-3xl: 22px;
+    --font-size-5xl: 24px;
+    --font-size-lg: 18px;
+  
+    /* Colors */
+    --color-white: #fff;
+    --color-saddlebrown: #5c3219;
+    --color-steelblue: #726fa6;
+    --color-gainsboro: #d9d9d9;
+  
+    /* border radiuses */
+    --br-381xl: 400px;
+  }
