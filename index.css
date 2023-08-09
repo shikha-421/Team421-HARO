@@ -1,249 +1,280 @@
 .frame-child {
-    position: absolute;
-    top: 113px;
-    left: 444px;
-    border-radius: 0 0 var(--br-381xl) 0;
-    background: linear-gradient(
-      180deg,
+  position: absolute;
+  top: 200px;
+  left: 444px;
+  border-radius: 0 0 var(--br-381xl) 0;
+  background: linear-gradient(180deg,
       rgba(103, 144, 86, 0),
       #679056 18.75%,
-      #679056
-    );
-    width: 996px;
-    height: 303px;
-  }
-  .haro-fundraising,
-  .help-us-give {
-    position: absolute;
-    left: 458px;
-    display: inline-block;
-    width: 859px;
-  }
-  .help-us-give {
-    top: 276px;
-    font-size: var(--font-size-21xl);
-    height: 90px;
-  }
-  .haro-fundraising {
-    top: 159px;
-    font-size: 96px;
-    color: var(--color-white);
-    height: 177px;
-  }
-  .about-us,
-  .adopt,
-  .contact-us,
-  .donate,
-  .home,
-  .ways-to-help {
-    position: absolute;
-    top: 39px;
-    left: 444px;
-    display: inline-block;
-    width: 144px;
-    height: 32px;
-  }
-  .about-us,
-  .contact-us,
-  .donate,
-  .home,
-  .ways-to-help {
-    top: 38px;
-    left: 273px;
-  }
-  .about-us,
-  .contact-us,
-  .donate,
-  .ways-to-help {
-    top: 39px;
-    left: 615px;
-    width: 204px;
-  }
-  .about-us,
-  .contact-us,
-  .donate {
-    left: 846px;
-    width: 144px;
-  }
-  .contact-us,
-  .donate {
-    left: 1212px;
-  }
-  .contact-us {
-    left: 1017px;
-    width: 168px;
-    height: 31px;
-  }
-  .frame-inner,
-  .frame-item {
-    position: absolute;
-    top: 10px;
-    left: 0;
-    width: 69px;
-    height: 84px;
-    object-fit: cover;
-  }
-  .frame-inner {
-    top: 102.06px;
-    width: 444px;
-    height: 314px;
-  }
-  .rectangle-parent {
-    position: absolute;
-    top: 0;
-    left: 0;
-    border-radius: 0 0 var(--br-381xl) 12px;
-    background-color: #9aae87;
-    width: 1440px;
-    height: 413px;
-    overflow: hidden;
-    font-size: var(--font-size-lg);
-    color: var(--color-saddlebrown);
-  }
-  .subtract-child,
-  .subtract-item {
-    position: absolute;
-    top: 976.25px;
-    left: 32px;
-    background-color: var(--color-gainsboro);
-    width: 191.69px;
-    height: 191.69px;
-    transform: rotate(-44.42deg);
-    transform-origin: 0 0;
-  }
-  .subtract-item {
-    left: 181.73px;
-  }
-  .subtract {
-    position: relative;
-    width: 215.77px;
-    height: 272.34px;
-    background-image: url(./public/subtract@3x.png);
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: top;
-  }
-  .group-child,
-  .group-inner,
-  .group-item {
-    position: absolute;
-    top: 88.28px;
-    left: 169.33px;
-    width: 287.53px;
-    height: 281.94px;
-    object-fit: cover;
-  }
-  .group-inner,
-  .group-item {
-    top: 0;
-    left: 140.57px;
-    width: 167.72px;
-    height: 164.53px;
-  }
-  .group-inner {
-    top: 290.67px;
-    left: 137.71px;
-    width: 173.44px;
-    height: 170.13px;
-  }
-  .subtract-parent {
-    position: absolute;
-    top: 751px;
-    left: 32px;
-    width: 450px;
-    height: 450px;
-  }
-  .the-issue-of {
-    font-size: var(--font-size-3xl);
-    font-family: var(--font-jejugothic);
-  }
-  .urgent-need-the-container {
-    position: absolute;
-    top: 0;
-    left: 32.37px;
-    display: inline-block;
-    width: 980.63px;
-    height: 91px;
-  }
-  .iconsaxboldtickcircle {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 25.06px;
-    height: 24px;
-    overflow: hidden;
-  }
-  .urgent-need-the-issue-of-home-parent {
-    position: absolute;
-    top: 748px;
-    left: 380px;
-    width: 1013px;
-    height: 91px;
-    font-family: var(--font-jockey-one);
-  }
-  .walkrun-for-strays {
-    font-size: var(--font-size-5xl);
-    font-family: var(--font-jockey-one);
-  }
-  .walkrun-for-strays-organize {
-    margin: 0;
-  }
-  .walkrun-for-strays-container {
-    position: absolute;
-    top: 0;
-    left: 30.9px;
-    display: inline-block;
-    width: 936.1px;
-    height: 79px;
-  }
-  .iconsaxboldtickcircle1 {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 23.93px;
-    height: 20.84px;
-    overflow: hidden;
-  }
-  .walkrun-for-strays-organize-parent {
-    position: absolute;
-    top: 1701px;
-    left: 19px;
-    width: 967px;
-    height: 79px;
-    font-size: var(--font-size-3xl);
-  }
-  .promote-through-social-container {
-    position: absolute;
-    top: 0;
-    left: 39px;
-    display: inline-block;
-    width: 1195px;
-    height: 91px;
-  }
-  .iconsaxboldtickcircle2 {
-    position: absolute;
-    top: 4px;
-    left: 0;
-    width: 30.54px;
-    height: 24px;
-    overflow: hidden;
-  }
-  .promote-through-social-mediar-parent {
-    position: absolute;
-    top: 1386px;
-    left: 19px;
-    width: 1234px;
-    height: 91px;
-    font-family: var(--font-jockey-one);
-  }
-  .educational-workshops-organiz-container {
-    position: absolute;
-    top: 0;
-    left: 35.67px;
-    display: inline-block;
+      #679056);
+  width: 996px;
+  height: 303px;
+}
+
+.haro-fundraising,
+.help-us-give {
+  position: absolute;
+  left: 458px;
+  display: inline-block;
+  width: 859px;
+}
+
+.help-us-give {
+  top: 276px;
+  font-size: var(--font-size-21xl);
+  height: 90px;
+}
+
+.haro-fundraising {
+  top: 159px;
+  font-size: 96px;
+  color: var(--color-white);
+  height: 177px;
+}
+
+.about-us,
+.adopt,
+.contact-us,
+.donate,
+.home,
+.ways-to-help {
+  position: absolute;
+  top: 39px;
+  left: 444px;
+  display: inline-block;
+  width: 144px;
+  height: 32px;
+}
+
+.about-us,
+.contact-us,
+.donate,
+.home,
+.ways-to-help {
+  top: 38px;
+  left: 273px;
+}
+
+.about-us,
+.contact-us,
+.donate,
+.ways-to-help {
+  top: 39px;
+  left: 615px;
+  width: 204px;
+}
+
+.about-us,
+.contact-us,
+.donate {
+  left: 846px;
+  width: 144px;
+}
+
+.contact-us,
+.donate {
+  left: 1212px;
+}
+
+.contact-us {
+  left: 1017px;
+  width: 168px;
+  height: 31px;
+}
+
+.frame-inner,
+.frame-item {
+  position: absolute;
+  top: 10px;
+  left: 0;
+  width: 69px;
+  height: 84px;
+  object-fit: cover;
+}
+
+.frame-inner {
+  top: 102.06px;
+  width: 444px;
+  height: 314px;
+}
+
+.rectangle-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 0 0 var(--br-381xl) 12px;
+  background-color: #9aae87;
+  width: 1440px;
+  height: 413px;
+  overflow: hidden;
+  font-size: var(--font-size-lg);
+  color: var(--color-saddlebrown);
+}
+
+.subtract-child,
+.subtract-item {
+  position: absolute;
+  top: 976.25px;
+  left: 32px;
+  background-color: var(--color-gainsboro);
+  width: 191.69px;
+  height: 191.69px;
+  transform: rotate(-44.42deg);
+  transform-origin: 0 0;
+}
+
+.subtract-item {
+  left: 181.73px;
+}
+
+.subtract {
+  position: relative;
+  width: 215.77px;
+  height: 272.34px;
+  background-image: url(./public/subtract@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+
+.group-child,
+.group-inner,
+.group-item {
+  position: absolute;
+  top: 88.28px;
+  left: 100.33px;
+  width: 287.53px;
+  height: 281.94px;
+  object-fit: cover;
+}
+
+.group-inner,
+.group-item {
+  top: 0;
+  left: 100.57px;
+  width: 167.72px;
+  height: 164.53px;
+}
+
+.group-inner {
+  top: 290.67px;
+  left: 100.71px;
+  width: 173.44px;
+  height: 170.13px;
+}
+
+.subtract-parent {
+  position: absolute;
+  top: 751px;
+  left: 32px;
+  width: 450px;
+  height: 450px;
+}
+
+.the-issue-of {
+  font-size: var(--font-size-3xl);
+  font-family: var(--font-jejugothic);
+}
+
+.urgent-need-the-container {
+  position: absolute;
+  top: 0;
+  left: 32.37px;
+  display: inline-block;
+  width: 980.63px;
+  height: 91px;
+}
+
+.iconsaxboldtickcircle {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 25.06px;
+  height: 24px;
+  overflow: hidden;
+}
+
+.urgent-need-the-issue-of-home-parent {
+  position: absolute;
+  top: 748px;
+  left: 380px;
+  width: 1013px;
+  height: 91px;
+  font-family: var(--font-jockey-one);
+}
+
+.walkrun-for-strays {
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-jockey-one);
+}
+
+.walkrun-for-strays-organize {
+  margin: 0;
+}
+
+.walkrun-for-strays-container {
+  position: absolute;
+  top: 0;
+  left: 30.9px;
+  display: inline-block;
+  width: 936.1px;
+  height: 79px;
+}
+
+.iconsaxboldtickcircle1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 23.93px;
+  height: 20.84px;
+  overflow: hidden;
+}
+
+.walkrun-for-strays-organize-parent {
+  position: absolute;
+  top: 1701px;
+  left: 19px;
+  width: 967px;
+  height: 79px;
+  font-size: var(--font-size-3xl);
+}
+
+.promote-through-social-container {
+  position: absolute;
+  top: 0;
+  left: 39px;
+  display: inline-block;
+  width: 1195px;
+  height: 91px;
+}
+
+.iconsaxboldtickcircle2 {
+  position: absolute;
+  top: 4px;
+  left: 0;
+  width: 30.54px;
+  height: 24px;
+  overflow: hidden;
+}
+
+.promote-through-social-mediar-parent {
+  position: absolute;
+  top: 1386px;
+  left: 19px;
+  width: 1234px;
+  height: 91px;
+  font-family: var(--font-jockey-one);
+}
+
+.educational-workshops-organiz-container {
+  position: absolute;
+  top: 0;
+  left: 35.67px;
+  display: inline-block;
   width: 1080.33px;
   height: 91px;
 }
+
 .iconsaxboldtickcircle3 {
   position: absolute;
   top: 0;
@@ -252,6 +283,7 @@
   height: 24px;
   overflow: hidden;
 }
+
 .educational-workshops-organiz-parent {
   position: absolute;
   top: 1596px;
@@ -260,11 +292,13 @@
   height: 91px;
   font-size: var(--font-size-3xl);
 }
+
 .blank-line {
   margin: 0;
   font-size: var(--font-size-5xl);
   font-family: var(--font-jockey-one);
 }
+
 .crowdfunding-campaign-launch-container {
   position: absolute;
   top: 0;
@@ -273,6 +307,7 @@
   width: 921.58px;
   height: 91px;
 }
+
 .iconsaxboldtickcircle4 {
   position: absolute;
   top: 0;
@@ -281,6 +316,7 @@
   height: 24px;
   overflow: hidden;
 }
+
 .crowdfunding-campaign-launch-parent {
   position: absolute;
   top: 1794px;
@@ -289,6 +325,7 @@
   height: 91px;
   font-size: var(--font-size-3xl);
 }
+
 .dine-for-a-container {
   position: absolute;
   top: 0;
@@ -297,6 +334,7 @@
   width: 922px;
   height: 89px;
 }
+
 .iconsaxboldtickcircle5 {
   position: absolute;
   top: 0;
@@ -305,6 +343,7 @@
   height: 23.47px;
   overflow: hidden;
 }
+
 .dine-for-a-cause-be-it-a-birt-parent {
   position: absolute;
   top: 1899px;
@@ -313,6 +352,7 @@
   height: 89px;
   font-family: var(--font-jockey-one);
 }
+
 .impactful-mission-haros-container {
   position: absolute;
   top: 0;
@@ -321,6 +361,7 @@
   width: 923.51px;
   height: 91px;
 }
+
 .iconsaxboldtickcircle6 {
   position: absolute;
   top: 0;
@@ -329,6 +370,7 @@
   height: 24px;
   overflow: hidden;
 }
+
 .impactful-mission-haros-miss-parent {
   position: absolute;
   top: 847px;
@@ -337,6 +379,7 @@
   height: 91px;
   font-family: var(--font-jockey-one);
 }
+
 .pet-friendly-event-organize-container {
   position: absolute;
   top: 0;
@@ -345,6 +388,7 @@
   width: 1166.49px;
   height: 91px;
 }
+
 .iconsaxboldtickcircle7 {
   position: absolute;
   top: 0;
@@ -353,6 +397,7 @@
   height: 24px;
   overflow: hidden;
 }
+
 .pet-friendly-event-organize-a-parent {
   position: absolute;
   top: 1491px;
@@ -361,6 +406,7 @@
   height: 91px;
   font-family: var(--font-jockey-one);
 }
+
 .transparency-and-accountabilit-container {
   position: absolute;
   top: 0;
@@ -369,6 +415,7 @@
   width: 849.94px;
   height: 96px;
 }
+
 .iconsaxboldtickcircle8 {
   position: absolute;
   top: 0;
@@ -377,6 +424,7 @@
   height: 25.32px;
   overflow: hidden;
 }
+
 .transparency-and-accountabilit-parent {
   position: absolute;
   top: 946px;
@@ -385,6 +433,7 @@
   height: 96px;
   font-family: var(--font-jockey-one);
 }
+
 .sustainable-solutions-haro-container {
   position: absolute;
   top: 0;
@@ -393,6 +442,7 @@
   width: 978.69px;
   height: 96px;
 }
+
 .iconsaxboldtickcircle9 {
   position: absolute;
   top: 0;
@@ -401,6 +451,7 @@
   height: 25.32px;
   overflow: hidden;
 }
+
 .community-engagement-haro-oft-parent,
 .sustainable-solutions-haro-no-parent {
   position: absolute;
@@ -410,28 +461,33 @@
   height: 96px;
   font-size: var(--font-size-3xl);
 }
+
 .community-engagement-haro-oft-parent {
   top: 1050px;
   left: 439px;
   width: 954px;
   height: 91px;
 }
+
 .ideas-to-raise,
 .why-choose-haro {
   position: absolute;
-  top: 691px;
-  left: 821px;
+  top: 680px;
+  left: 600px;
   font-size: var(--font-size-31xl);
   display: inline-block;
   font-family: var(--font-lexend);
   color: var(--color-saddlebrown);
-  width: 496px;
-  height: 119px;
+  width: 600px;
+  height: 100px;
 }
+
 .ideas-to-raise {
   top: 1313px;
   left: 77px;
+  
 }
+
 .group-icon {
   position: absolute;
   top: 1451px;
@@ -439,6 +495,7 @@
   width: 450px;
   height: 450px;
 }
+
 .frame-group {
   position: absolute;
   height: calc(100% - 446px);
@@ -450,8 +507,9 @@
   background: linear-gradient(90deg, #abbaab, #fff);
   overflow: hidden;
 }
+
 .everyday-countless-innocent,
-.rundraise-with-haro {
+.fundraise-with-haro {
   position: absolute;
   top: 20px;
   left: 431px;
@@ -459,6 +517,7 @@
   width: 730px;
   height: 119px;
 }
+
 .everyday-countless-innocent {
   top: 108px;
   left: 26px;
@@ -468,6 +527,7 @@
   width: 1387px;
   height: 176px;
 }
+
 .frame-div {
   position: absolute;
   top: 277px;
@@ -477,7 +537,8 @@
   height: 563px;
   overflow: hidden;
 }
-.rundraise-with-haro-parent {
+
+.fundraise-with-haro-parent {
   position: absolute;
   height: 10.88%;
   width: 100%;
@@ -485,27 +546,29 @@
   right: 0;
   bottom: 55.3%;
   left: 0;
-  background: linear-gradient(
-    90deg,
-    rgba(212, 211, 221, 0.5) 29.69%,
-    rgba(239, 239, 187, 0.5)
-  );
+  background: linear-gradient(90deg,
+      rgba(212, 211, 221, 0.5) 29.69%,
+      rgba(239, 239, 187, 0.5));
   overflow: hidden;
   opacity: 0.75;
   font-size: var(--font-size-31xl);
   color: var(--color-saddlebrown);
   font-family: var(--font-lexend);
 }
+
 .your-compassion-can {
-  position: absolute;
-  height: 0.51%;
-  width: 11.88%;
-  top: 0;
+  /* position: absolute; */
+  /* height: 0.51%;
+  width: 11.88%; */
+  top: 10;
   left: 44.81%;
-  font-size: 12px;
+  font-size: 50px;
   color: #000;
-  display: inline-block;
+  /* display: inline-block; */
+  text-align: center;
+  background-color: #679056;
 }
+
 .component-2 {
   position: absolute;
   height: 100%;
@@ -515,6 +578,7 @@
   bottom: 0;
   left: 0;
 }
+
 .component-2-wrapper {
   position: absolute;
   top: 0;
@@ -522,6 +586,7 @@
   width: 1628px;
   height: 2525px;
 }
+
 .frame-parent {
   position: relative;
   width: 100%;
@@ -531,6 +596,7 @@
   color: var(--color-steelblue);
   font-family: var(--font-jejugothic);
 }
+
 @media screen and (max-width: 1200px) {
   .frame-parent {
     width: 1200px;
